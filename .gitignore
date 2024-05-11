@@ -1,0 +1,18 @@
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.pyc
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.parquet
+*.txt
+*.json
+*.jsonl
+*.csv
+*.pkl
+*.arrow
+*.model
